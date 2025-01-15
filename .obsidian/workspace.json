@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "9f4b8c4f31af38bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a508a7c1c7a4dc81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "feb40a04d95ffd88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 AWS y Fundamentos de la Nube/Que es AWS 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Que es AWS 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7366cd4c77c365ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ebbcdf7f2c9fcce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e7d2e5becdf8e1f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "1301c63e4ce75eb4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "f4f8b53949073afc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5a37a53a067dd575",
+    "type": "split",
+    "children": [
+      {
+        "id": "a96f076b95a4047c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cff867f3a6a4d214",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 AWS y Fundamentos de la Nube/Que es AWS 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Que es AWS 1"
+            }
+          },
+          {
+            "id": "e72a73e238b9fc03",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 AWS y Fundamentos de la Nube/Que es AWS 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Que es AWS 1"
+            }
+          },
+          {
+            "id": "b6756c60b4e8c3d4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "40e396a84900128b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 AWS y Fundamentos de la Nube/Que es AWS 1.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Que es AWS 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "8e7d2e5becdf8e1f",
+  "lastOpenFiles": [
+    "2025-01-14.md",
+    "1 AWS y Fundamentos de la Nube/Que es AWS 1.md",
+    "1 AWS y Fundamentos de la Nube/Cloud Computing/Cloud Computing 1.md",
+    "1 AWS y Fundamentos de la Nube/Cloud Computing/Beneficios del Cloud 1b.md",
+    "1 AWS y Fundamentos de la Nube/Cloud Computing/Precios Cloud 1d.md",
+    "1 AWS y Fundamentos de la Nube/Cloud Computing/Tipos de Cloud Computing 1c.md",
+    "1 AWS y Fundamentos de la Nube/Cloud Computing/Características del Cloud 1a.md",
+    "1 AWS y Fundamentos de la Nube/Cloud Computing/Otros/Opex 1b2.md",
+    "1 AWS y Fundamentos de la Nube/Regiones/Regiones 3.md",
+    "1 AWS y Fundamentos de la Nube/Regiones/Zonas de disponibilidad.md",
+    "1 AWS y Fundamentos de la Nube/Regiones/Elegir una región 3a.md",
+    "[Elegir una región 3a.md",
+    "2 Servicios Fundamentales en AWS/Servicios Globales y regionales/Servicios Globales 1.md",
+    "2 Servicios Fundamentales en AWS/Globales/IAM/IAM 1.md",
+    "2 Servicios Fundamentales en AWS/Regionales",
+    "2 Servicios Fundamentales en AWS/Globales",
+    "2 Servicios Fundamentales en AWS/Globales/WAF/WAF 1.md",
+    "2 Servicios Fundamentales en AWS/Globales/Route 53/Route 53 1.md",
+    "2 Servicios Fundamentales en AWS/Globales/CloudFront/CloudFront 1.md",
+    "2 Servicios Fundamentales en AWS/Globales/WAF",
+    "2 Servicios Fundamentales en AWS/Globales/CloudFront",
+    "2 Servicios Fundamentales en AWS/Globales/Route 53",
+    "2 Servicios Fundamentales en AWS/Globales/IAM",
+    "2 Servicios Fundamentales en AWS/Servicios Globales y regionales",
+    "Img/Pasted image 20250114213502.png",
+    "1 AWS y Fundamentos de la Nube/Regiones",
+    "Sin título 1.canvas",
+    "Sin título.canvas",
+    "1 AWS y Fundamentos de la Nube/Cloud Computing/Los sitios webs/Servidor 2b.md",
+    "1 AWS y Fundamentos de la Nube/Cloud Computing/Los sitios webs/Servidor 2a.md",
+    "1 AWS y Fundamentos de la Nube/Cloud Computing/Los sitios webs/Sitios Web 2.md",
+    "Beneficios 1a.md",
+    "1 AWS y Fundamentos de la Nube/Beneficios 1a.md",
+    "1 AWS y Fundamentos de la Nube/Cloud Computing/Otros/Capex 1b1.md",
+    "Img/Pasted image 20250114204958.png",
+    "1 AWS y Fundamentos de la Nube/Cloud Computing/Otros",
+    "Img/Pasted image 20250114193752.png",
+    "Img",
+    "Roadmap para AWS Cloud Practitioner 2025.md",
+    "1 AWS y Fundamentos de la Nube/INDEX.md",
+    "Conceptos AWS 1.md",
+    "EC2/Sin título.canvas"
+  ]
+}

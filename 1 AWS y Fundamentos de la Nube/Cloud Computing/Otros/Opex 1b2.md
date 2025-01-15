@@ -1,0 +1,1 @@
+los gastos que una empresa incurre en su actividad diaria para mantener su funcionamiento

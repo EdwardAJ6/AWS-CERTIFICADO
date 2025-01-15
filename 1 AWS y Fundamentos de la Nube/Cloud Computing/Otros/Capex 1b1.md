@@ -1,0 +1,1 @@
+Esto es el gasto de una empresa en capital por una adquisición , en este caso por un servicio en AWS
