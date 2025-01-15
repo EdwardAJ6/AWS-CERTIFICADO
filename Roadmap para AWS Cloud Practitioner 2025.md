@@ -1,7 +1,7 @@
 
 ## 1. AWS y Fundamentos de la Nube 
 
-- [ ] Conceptos básicos de computación en la nube 
+- [ ] Conceptos básicos de computación en la nube
 - [ ] Infraestructura global de AWS (Regiones, Zonas de disponibilidad)
 - [ ] Modelos de precios: Pay-as-you-go y Free Tier
 
