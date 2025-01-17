@@ -1,7 +1,7 @@
 
 # Que es AWS?¿
 
-Es una empresa que ofrece Cloud Computing [[Cloud Computing 1]]
+Es unn proveedor de Cloud Computing [[Cloud Computing 1]]
 
 
 

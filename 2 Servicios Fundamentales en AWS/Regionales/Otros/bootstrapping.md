@@ -1,0 +1,1 @@
+Lanzar un comando cuando una maquina se arranca por primera vez

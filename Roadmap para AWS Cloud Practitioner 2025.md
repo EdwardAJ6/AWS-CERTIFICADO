@@ -1,8 +1,8 @@
 
 ## 1. AWS y Fundamentos de la Nube
 
-- [ ] Conceptos básicos de computación en la nube
-- [ ] Infraestructura global de AWS (Regiones, Zonas de disponibilidad)
+- [x] Conceptos básicos de computación en la nube
+- [x] Infraestructura global de AWS (Regiones, Zonas de disponibilidad)
 - [ ] Modelos de precios: Pay-as-you-go y Free Tier
 
 ## 2. Servicios Fundamentales en AWS
@@ -21,8 +21,8 @@
 ## 3. Seguridad y Modelos de Gestión
 
 - [ ] Modelo de seguridad compartida
-- [ ] Identidad y Acceso:
-  - [ ] AWS IAM (Identity and Access Management)
+- [x] Identidad y Acceso:
+  - [x] AWS IAM (Identity and Access Management)
 - [ ] Protección de recursos:
   - [ ] AWS Shield
   - [ ] AWS WAF (Web Application Firewall)
