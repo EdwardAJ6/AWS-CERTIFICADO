@@ -18,4 +18,4 @@ También tenemos que entender las [[Zonas de disponibilidad]]
 * Amazon tiene +450 puntos de presencia (+10 cachés regionales) en +90 ciudades de +40 países.
 * El contenido se entrega a los usuarios finales con menor latencia.
 
-Para tener en cuenta, AWS tiene 4 servicios globales [[Servicios Globales 1]] 
+Para tener en cuenta, AWS tiene 4 servicios globales [[Servicios Globales]] 

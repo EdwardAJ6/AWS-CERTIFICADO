@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a508a7c1c7a4dc81",
+        "id": "6519c4e32272beac",
         "type": "tabs",
         "children": [
           {
-            "id": "feb40a04d95ffd88",
+            "id": "e2c5cc22066d88c6",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -18,35 +18,20 @@
             }
           },
           {
-            "id": "3bf066d91dfe26c8",
+            "id": "e3dc9e93342bff4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Servicios Fundamentales en AWS/Regionales/EC2/EC2 1.md",
+                "file": "2 Servicios Fundamentales en AWS/Servicios Regionales.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EC2 1"
-            }
-          },
-          {
-            "id": "173053a2d304151e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Servicios Fundamentales en AWS/Regionales/EC2/Configuración de EC2 1a.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Configuración de EC2 1a"
+              "title": "Servicios Regionales"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#alamcenamiento",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 373.5
   },
   "right": {
     "id": "5a37a53a067dd575",
@@ -118,7 +103,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "2 Servicios Fundamentales en AWS/Regionales/EFS/EFS 1.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -127,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de EFS 1"
             }
           },
           {
@@ -136,11 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2 Servicios Fundamentales en AWS/Regionales/EFS/EFS 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de EFS 1"
             }
           },
           {
@@ -150,7 +137,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               },
               "icon": "lucide-tags",
               "title": "Etiquetas"
@@ -161,12 +148,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "2 Servicios Fundamentales en AWS/Regionales/EFS/EFS 1.md"
+              },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de EFS 1"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -183,54 +173,54 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "173053a2d304151e",
+  "active": "e2c5cc22066d88c6",
   "lastOpenFiles": [
-    "2 Servicios Fundamentales en AWS/Regionales/EC2/EC2 1.md",
-    "2 Servicios Fundamentales en AWS/Regionales/EC2/Opciones de compra de EC2 1C.md",
-    "2 Servicios Fundamentales en AWS/Regionales/EC2/Grupos de seguridad/Grupos de seguridad 1a.md",
-    "Img/Pasted image 20250116224256.png",
-    "2 Servicios Fundamentales en AWS/Regionales/EC2/Grupos de seguridad/Grupos de seguridad 1.md",
-    "2 Servicios Fundamentales en AWS/Regionales/EC2/Grupos de seguridad",
-    "Img/Pasted image 20250116223622.png",
-    "2 Servicios Fundamentales en AWS/Regionales/EC2/Tipos de Instancias/EC2 Propósito General 1b1.md",
-    "2 Servicios Fundamentales en AWS/Regionales/EC2/Tipos de Instancias/Almacenamiento Optimizado.md",
-    "2 Servicios Fundamentales en AWS/Regionales/EC2/Tipos de Instancias/Memoria Optimizada 1b3.md",
-    "2 Servicios Fundamentales en AWS/Regionales/EC2/Tipos de Instancias/Computación Optimizada 1b2.md",
-    "2 Servicios Fundamentales en AWS/Regionales/EC2/Configuración de EC2 1a.md",
-    "2 Servicios Fundamentales en AWS/Regionales/EC2/Tipos de EC2 1b.md",
-    "Img/Pasted image 20250116221644.png",
-    "Img/Pasted image 20250116221538.png",
-    "Img/Pasted image 20250116221525.png",
-    "Img/Pasted image 20250116221547.png",
-    "Img/Pasted image 20250116221503.png",
-    "2 Servicios Fundamentales en AWS/Regionales/EC2/Tipos de Instancias",
-    "2 Servicios Fundamentales en AWS/Regionales/EC2/Datos del usuario EC2 1a1.md",
-    "Img/Pasted image 20250116215839.png",
-    "Img/Pasted image 20250116215709.png",
-    "2 Servicios Fundamentales en AWS/Regionales/Otros/bootstrapping.md",
-    "2 Servicios Fundamentales en AWS/Regionales/Otros",
-    "2 Servicios Fundamentales en AWS/Regionales/EC2",
-    "EBS.md",
-    "1 AWS y Fundamentos de la Nube/Cloud Computing/Tipos de Cloud Computing 1c.md",
-    "1 AWS y Fundamentos de la Nube/Que es AWS 1.md",
-    "2 Servicios Fundamentales en AWS/Acceso AWS/Como Acceder a AWS 1.md",
-    "2 Servicios Fundamentales en AWS/Acceso AWS/Claves de acceso 1b.md",
-    "2 Servicios Fundamentales en AWS/Globales/IAM/Herramientas de Auditoria 1e.md",
+    "2 Servicios Fundamentales en AWS/Servicios Regionales.md",
+    "2 Servicios Fundamentales en AWS/Regionales/Analisis/GLUE/Glue ETL 1.md",
+    "2 Servicios Fundamentales en AWS/Regionales/Bases de datos/QuickSight/QLDB libros contables1.md",
+    "2 Servicios Fundamentales en AWS/Regionales/Analisis/QuickSight/QuickSight 1.md",
+    "2 Servicios Fundamentales en AWS/Servicios Globales.md",
     "2 Servicios Fundamentales en AWS/Globales/IAM/IAM 1.md",
-    "2 Servicios Fundamentales en AWS/Globales/IAM/Permisos 1a.md",
+    "2 Servicios Fundamentales en AWS/Acceso AWS/Como Acceder a AWS 1.md",
+    "2 Servicios Fundamentales en AWS/Acceso AWS/SDK 1c.md",
     "Roadmap para AWS Cloud Practitioner 2025.md",
-    "Img/Pasted image 20250114193752.png",
-    "2 Servicios Fundamentales en AWS/Globales/IAM/Roles IAM para servicios 1d.md",
-    "2 Servicios Fundamentales en AWS/Globales/IAM/MFA 1c.md",
-    "2 Servicios Fundamentales en AWS/Globales/IAM/Política contraseñas 1b.md",
-    "2 Servicios Fundamentales en AWS/Globales/IAM/Estructura de una política IAM 1a1.md",
-    "2 Servicios Fundamentales en AWS/Servicios Globales 1.md",
-    "2 Servicios Fundamentales en AWS/Globales/Otros",
-    "2 Servicios Fundamentales en AWS/Regionales",
-    "2 Servicios Fundamentales en AWS/Globales",
-    "2 Servicios Fundamentales en AWS/Globales/WAF",
-    "2 Servicios Fundamentales en AWS/Globales/CloudFront",
-    "2 Servicios Fundamentales en AWS/Globales/Route 53",
+    "2 Servicios Fundamentales en AWS/Regionales/Computacion/EC2/EBS/EBS 1.md",
+    "2 Servicios Fundamentales en AWS/Regionales/Computacion/EC2/EBS/Snapshot = Instantánea 1a.md",
+    "2 Servicios Fundamentales en AWS/Regionales/Computacion/EC2/EBS/Características 1b.md",
+    "2 Servicios Fundamentales en AWS/Regionales/Computacion/EC2/Configuración de EC2 1a.md",
+    "2 Servicios Fundamentales en AWS/Regionales/Computacion/EC2/EC2 1.md",
+    "2 Servicios Fundamentales en AWS/Regionales/Computacion/EC2/Tipos de EC2 1b.md",
+    "2 Servicios Fundamentales en AWS/Regionales/Computacion/EC2/Instance Store 1d.md",
+    "2 Servicios Fundamentales en AWS/Regionales/Computacion/EC2/Opciones de compra de EC2/Opciones de compra de EC2 1.md",
+    "2 Servicios Fundamentales en AWS/Regionales/Computacion/EC2/Opciones de compra de EC2/Reservadas de capacidad.md",
+    "2 Servicios Fundamentales en AWS/Regionales/Computacion/EC2/Opciones de compra de EC2/Instancias dedicadas.md",
+    "2 Servicios Fundamentales en AWS/Regionales/Computacion/EC2/Opciones de compra de EC2/Instancia reservada 1b.md",
+    "2 Servicios Fundamentales en AWS/Regionales/Analisis/Mangaed Blockchain/Managed Blockchain 1.md",
+    "2 Servicios Fundamentales en AWS/Regionales/Computacion/EC2/Opciones de compra de EC2/Host Dedicado.md",
+    "2 Servicios Fundamentales en AWS/Regionales/Computacion/EC2/Opciones de compra de EC2/Instancias Spot.md",
+    "2 Servicios Fundamentales en AWS/Regionales/Computacion/EC2/Opciones de compra de EC2/Planes de ahorro.md",
+    "2 Servicios Fundamentales en AWS/Regionales/Computacion/EC2/Opciones de compra de EC2/Instancia reservada convertibles 1b1.md",
+    "2 Servicios Fundamentales en AWS/Regionales/Computacion/EC2/Opciones de compra de EC2/Instancias bajo demanda 1a.md",
+    "2 Servicios Fundamentales en AWS/Regionales/Bases de datos/Warehouses de datos",
+    "2 Servicios Fundamentales en AWS/Regionales/Analisis",
+    "2 Servicios Fundamentales en AWS/Regionales/Bases de datos/DMS Migracion/Database Migrate Service",
+    "2 Servicios Fundamentales en AWS/Regionales/Bases de datos/DMS Migracion",
+    "2 Servicios Fundamentales en AWS/Regionales/Analisis/GLUE",
+    "2 Servicios Fundamentales en AWS/Regionales/Analisis/Mangaed Blockchain",
+    "2 Servicios Fundamentales en AWS/Regionales/Bases de datos/QuickSight",
+    "2 Servicios Fundamentales en AWS/Regionales/Bases de datos/Neptune",
+    "2 Servicios Fundamentales en AWS/Regionales/Bases de datos/DocumentDB",
+    "2 Servicios Fundamentales en AWS/Regionales/Analisis/QuickSight",
+    "Img/Pasted image 20250119181146.png",
+    "Img/Pasted image 20250119180354.png",
+    "Img/Pasted image 20250119155225.png",
+    "Img/Pasted image 20250119155212.png",
+    "Img/Pasted image 20250118232304.png",
+    "Img/Pasted image 20250118225406.png",
+    "Img/Pasted image 20250118225035.png",
+    "Img/Pasted image 20250118204030.png",
+    "Img/Pasted image 20250118193352.png",
+    "Img/Pasted image 20250118182508.png",
     "Sin título 1.canvas",
     "Sin título.canvas",
     "EC2/Sin título.canvas"

@@ -1,0 +1,1 @@
+Actualizar el tamaño de un ASG manual

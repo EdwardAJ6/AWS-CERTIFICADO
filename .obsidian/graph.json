@@ -6,17 +6,60 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"2 Servicios Fundamentales en AWS/Regionales/Almacenamiento\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"2 Servicios Fundamentales en AWS/Regionales/Bases de datos\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"2 Servicios Fundamentales en AWS/Regionales/Computacion\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"2 Servicios Fundamentales en AWS/Regionales/Analisis\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 2586407
+      }
+    },
+    {
+      "query": "path:\"1 AWS y Fundamentos de la Nube\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"2 Servicios Fundamentales en AWS/Globales\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -0.2,
-  "nodeSizeMultiplier": 1,
+  "textFadeMultiplier": -0.6,
+  "nodeSizeMultiplier": 1.27395833333333,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
+  "centerStrength": 0.197916666666667,
   "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.0000000000000013,
+  "linkDistance": 245,
+  "scale": 0.2292013594174976,
   "close": true
 }

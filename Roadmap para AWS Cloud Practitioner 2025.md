@@ -8,19 +8,19 @@
 ## 2. Servicios Fundamentales en AWS
 
 - [ ] Cómputo:
-  - [ ] Amazon EC2
+  - [x] Amazon EC2
   - [ ] AWS Lambda
-- [ ] Almacenamiento:
-  - [ ] Amazon S3
-  - [ ] Amazon EBS
-  - [ ] Amazon EFS
-- [ ] Bases de Datos:
-  - [ ] Amazon RDS
-  - [ ] Amazon DynamoDB
+- [x] Almacenamiento:
+  - [x] Amazon S3
+  - [x] Amazon EBS
+  - [x] Amazon EFS
+- [x] Bases de Datos:
+  - [x] Amazon RDS
+  - [x] Amazon DynamoDB
 
 ## 3. Seguridad y Modelos de Gestión
 
-- [ ] Modelo de seguridad compartida
+- [x] Modelo de seguridad compartida
 - [x] Identidad y Acceso:
   - [x] AWS IAM (Identity and Access Management)
 - [ ] Protección de recursos:
@@ -57,3 +57,4 @@
 - [Simuladores de Examen: Whizlabs, Tutorials Dojo](https://tutorialsdojo.com/)
 
 ¡Completa cada sección y verifica tu conocimiento para lograr la certificación!
+
